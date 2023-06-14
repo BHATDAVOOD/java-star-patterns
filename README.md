@@ -11,6 +11,7 @@
 
 ## Questions
 1. Write a program to print a pattern of stars in the shape of a right-angled triangle.
+2. Write a program to print a pattern of stars in the shape of an inverted right-angled triangle.
 
 
 ## Usage
