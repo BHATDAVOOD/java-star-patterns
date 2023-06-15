@@ -14,6 +14,7 @@
 2. Write a program to print a pattern of stars in the shape of an inverted right-angled triangle.
 3. Write a program to print a pattern of stars in the shape of a pyramid.
 4. Write a program to print a pattern of stars in the shape of mirror image of Right angled triangle.
+5. Write a program to print  pattern of stars in the shape of a diamond.
 
 
 ## Usage
