@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class DiamondShapedStarPattern {
 
     /*
-     * Write a program to print a pattern of stars in the shape of a diamond.
+     * Write a program to print  pattern of stars in the shape of a diamond.
      * Example :- Input - 4
      * Output :-
      *            *
