@@ -6,13 +6,11 @@ public class DiamondShapedStarPattern {
 
     /*
      * Write a program to print  pattern of stars in the shape of a diamond.
-     * Example :- Input - 4
+     * Example :- Input - 3
      * Output :-
      *            *
      *           * *
      *          * * *
-     *         * * * *
-     *         * * * *
      *          * * *
      *           * *
      *            *
